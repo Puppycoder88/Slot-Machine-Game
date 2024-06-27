@@ -1,0 +1,34 @@
+*{
+  /* box-sizing: border-box; */
+  margin: 0;
+  padding: 0;
+  background-color:  #d2dbdd;
+}
+
+.heading_style{
+  padding:30px 0;
+  text-align: center;
+  font-family: Georgia, serif, sans-serif;
+  font-size: 13px;
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 1px;
+  font-size: 1.5rem;
+  background-color: #fff;
+  margin-bottom: 30px;
+}
+
+.slot_inner h1{
+  margin: 8px;
+  font-weight: normal;
+}
+
+.slotmachine{
+  font-size: 10px;
+  font-family: system-ui;
+  text-align: center;
+  border: 2px solid rgb(126, 121, 121);
+  letter-spacing: 1px;
+  display:inline-block;
+  margin-inline-start: 57em;
+}
